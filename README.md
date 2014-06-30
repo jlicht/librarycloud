@@ -12,7 +12,7 @@ Intstallation
 
 Prerequisites: 
 Download and install java 7. Be sure to set your JAVA_HOME environment variable.
-Download and intsall a servlet container such as tomcat 7 (http://tomcat.apache.org/download-70.cgi)
+Download and install a servlet container such as tomcat 7 (http://tomcat.apache.org/download-70.cgi)
 
 Build and Deploy:
 
