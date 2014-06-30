@@ -7,7 +7,7 @@ This is an alpha release Library Cloud API v2 (see http://librarycloud.harvard.e
 
 API documentation and link forthcoming
 
-Intstallation
+Installation
 ----------------
 
 Prerequisites: 
